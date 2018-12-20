@@ -2,8 +2,8 @@
 // 👆 Used to tell Node.js that this is a CLI tool
 
 // Pull in our modules
-import boxen from 'boxen';
-import chalk from 'chalk';
+const boxen = require('boxen');
+const chalk = require('chalk');
 
 // Because we like console, and captains.log sounds cool
 const captains = console;

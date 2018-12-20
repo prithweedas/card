@@ -2,6 +2,8 @@
 
 It's me, John!
 
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/johnpapa/johbpapa-card/blob/master/LICENSE)
+
 ## Usage
 
 Via npx:

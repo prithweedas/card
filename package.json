@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A personal card for John Papa",
   "main": "index.js",
+  "private": false,
   "bin": {
     "johnpapa-card": "./bin/index.js"
   },

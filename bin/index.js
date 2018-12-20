@@ -12,7 +12,7 @@ const captains = console;
 const options = {
   padding: 1,
   margin: 1,
-  borderStyle: 'double-single',
+  borderStyle: 'single',
 };
 
 // Text + chalk definitions

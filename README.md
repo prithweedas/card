@@ -3,6 +3,9 @@
 It's me, John!
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/johnpapa/johbpapa-card/blob/master/LICENSE)
+[![npm version](https://img.shields.io/badge/npm-MIT-blue.svg)](https://github.com/johnpapa/johbpapa-card/blob/master/LICENSE)
+
+[![npm version](https://img.shields.io/npm/v/johnpapa.svg?style=flat)](https://www.npmjs.com/package/@johnpapa/card)
 
 ## Usage
 

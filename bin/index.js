@@ -2,8 +2,8 @@
 // 👆 Used to tell Node.js that this is a CLI tool
 
 // Pull in our modules
-import { white, cyan, green } from 'chalk';
 import boxen from 'boxen';
+import chalk from 'chalk';
 
 // Because we like console, and captains.log sounds cool
 const captains = console;
@@ -17,20 +17,20 @@ const options = {
 
 // Text + chalk definitions
 const data = {
-  name: white('John Papa /'),
-  handle: cyan('Disney Fan'),
-  work: white('Web Developer and Full Stack Architect'),
-  twitter: cyan('https://twitter.com/john_papa'),
-  github: cyan('https://github.com/johnpapa'),
-  linkedin: cyan('https://linkedin.com/in/papajohn'),
-  web: cyan('https://johnpapa.net'),
-  npx: white('npx @johnpapa/card'),
-  labelWork: white.bold('      Work:'),
-  labelTwitter: white.bold('   Twitter:'),
-  labelGitHub: white.bold('    GitHub:'),
-  labelLinkedIn: white.bold('  LinkedIn:'),
-  labelWeb: white.bold('       Web:'),
-  labelCard: white.bold('      Card:'),
+  name: chalk.white('John Papa /'),
+  handle: chalk.cyan('Disney Fan'),
+  work: chalk.white('Web Developer and Full Stack Architect'),
+  twitter: chalk.cyan('https://twitter.com/john_papa'),
+  github: chalk.cyan('https://github.com/johnpapa'),
+  linkedin: chalk.cyan('https://linkedin.com/in/papajohn'),
+  web: chalk.cyan('https://johnpapa.net'),
+  npx: chalk.white('npx @johnpapa/card'),
+  labelWork: chalk.white.bold('      Work:'),
+  labelTwitter: chalk.white.bold('   Twitter:'),
+  labelGitHub: chalk.white.bold('    GitHub:'),
+  labelLinkedIn: chalk.white.bold('  LinkedIn:'),
+  labelWeb: chalk.white.bold('       Web:'),
+  labelCard: chalk.white.bold('      Card:'),
 };
 
 // Actual strings we're going to output
@@ -60,5 +60,5 @@ const output = heading
   + newline
   + carding;
 
-const cardMessage = green(boxen(output, options));
+const cardMessage = chalk.green(boxen(output, options));
 captains.log(cardMessage);

@@ -2,9 +2,7 @@
 
 It's me, John!
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/johnpapa/johbpapa-card/blob/master/LICENSE)
-
-[![npm version](https://badge.fury.io/js/%40johnpapa%2Fcard.svg)](https://www.npmjs.com/package/@johnpapa/card)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/johnpapa/johbpapa-card/blob/master/LICENSE) [![npm version](https://badge.fury.io/js/%40johnpapa%2Fcard.svg)](https://www.npmjs.com/package/@johnpapa/card)
 
 ## Usage
 
@@ -21,3 +19,5 @@ Not including how to use it globally because I'm not sure why you'd want this as
 Forked from Tierney Cyren's https://github.com/bnb/bitandbang
 
 ![Card](https://raw.githubusercontent.com/johnpapa/johnpapa-card/master/card.gif)
+
+Badges from <https://badge.fury.io/for/js>

@@ -3,9 +3,8 @@
 It's me, John!
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/johnpapa/johbpapa-card/blob/master/LICENSE)
-[![npm version](https://img.shields.io/badge/npm-MIT-blue.svg)](https://github.com/johnpapa/johbpapa-card/blob/master/LICENSE)
 
-[![npm version](https://img.shields.io/npm/v/johnpapa/card.svg?style=flat)](https://www.npmjs.com/package/@johnpapa/card)
+[![npm version](https://badge.fury.io/js/%40johnpapa%2Fcard.svg)](https://www.npmjs.com/package/@johnpapa/card)
 
 ## Usage
 

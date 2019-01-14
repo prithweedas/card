@@ -1,6 +1,6 @@
 {
   "name": "prithwee-card",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A personal card for Prithwee Das",
   "main": "index.js",
   "bin": {
